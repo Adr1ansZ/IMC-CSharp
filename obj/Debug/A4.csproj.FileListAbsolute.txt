@@ -1,0 +1,11 @@
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\bin\Debug\A4.exe.config
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\bin\Debug\A4.exe
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\bin\Debug\A4.pdb
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\obj\Debug\A4.csproj.AssemblyReference.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\obj\Debug\A4.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\obj\Debug\A4.lbl2.resources
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\obj\Debug\A4.Properties.Resources.resources
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\obj\Debug\A4.csproj.GenerateResource.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\obj\Debug\A4.csproj.CoreCompileInputs.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\obj\Debug\A4.exe
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\UC12\A4\A4\obj\Debug\A4.pdb
